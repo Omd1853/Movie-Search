@@ -1,6 +1,6 @@
 # Movie-Search
 
-git push -u origin main
+Clone the Repository
 
 Install Dependencies
 npm install
